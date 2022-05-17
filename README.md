@@ -11,7 +11,7 @@ In .env file, set the value of DB_DATABASE equal to the name of the newly create
 
 # Step 4
 Run the following commands in terminal:-
-1). composer require
+1). composer install
 2). php artisan migrate --seed
 3). cd resources/frontend/angular
 4). npm install
