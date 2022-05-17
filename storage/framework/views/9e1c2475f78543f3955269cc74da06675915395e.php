@@ -1,0 +1,1 @@
+<?php /**PATH /var/www/html/new_practical/laravel-angular/resources/views/angular.blade.php ENDPATH**/ ?>
