@@ -7,7 +7,7 @@ Take clone of the repository in your local system. Unzip the cloned repository.
 Create a new database of any name in MySQL.
 
 # Step 3
-In .env file, set the value of DB_DATABASE equal to the name of the newly created database in MySQL. If .env file is not available, go to the folder containing .env.example file and run 'sudo cp .env.example .env' and then set the value.
+In .env file, set the value of DB_DATABASE equal to the name of the newly created database in MySQL. If .env file is not available, go to the folder containing .env.example file and run 'sudo cp env.example .env' and then set the value.
 
 # Step 4
 Run the following commands in terminal:-
