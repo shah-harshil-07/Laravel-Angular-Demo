@@ -5,3 +5,4 @@ composer.lock
 /bootstrap/cache/*
 /storage/logs/*
 node_modules
+environments
