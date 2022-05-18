@@ -17,7 +17,7 @@ Run the following commands in terminal:-
 4). npm install
 
 # Step 5
-Make a virtualhost path pointing to the public directory of this project. Uncomment the keys imageUrl and localhostUrl and set the values of those keys according to the instructions written over there.
+Make a virtualhost path pointing to the public directory of this project. Uncomment the keys imageUrl and localhostUrl in environments/environment.ts and set the values of those keys according to the instructions written over there.
 
 # Step 6
 Run ng s -o command in the terminal.
