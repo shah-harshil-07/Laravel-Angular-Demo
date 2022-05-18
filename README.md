@@ -1,7 +1,7 @@
 ## Steps of the project setup
 
 # Step 1 
-Take clone of the repository in your local system. Unzip the cloned repository.
+Take clone of the repository in your local system. Unzip if the zipped repository is downloaded.
 
 # Step 2
 Create a new database of any name in MySQL.
