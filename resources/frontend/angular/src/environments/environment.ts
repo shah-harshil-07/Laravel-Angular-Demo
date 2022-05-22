@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  // localhostUrl: 'http://local.new_practical.com/api', // Set your on virtualhost path here.
-  // imageUrl: 'http://local.new_practical.com/images/', // Set path pointing to the images folder inside the public directory pointed by your virtualhost path here.
+  localhostUrl: 'http://localhost:8000/api',
+  // imageUrl: 'http://local.new_practical.com/images/', // Set path pointing to the images folder inside the public directory of cloned repository here.
 };
 
 /*
