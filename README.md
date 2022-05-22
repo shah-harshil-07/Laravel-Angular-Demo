@@ -14,7 +14,7 @@ Run the following commands in terminal:-
 1). composer install
 2). php artisan migrate --seed
 3). php artisan serve
-4). cd resources/frontend/angular
+4). (In an new terminal) cd resources/frontend/angular
 5). npm install
 
 # Step 5
