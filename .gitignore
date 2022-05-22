@@ -6,3 +6,7 @@ composer.lock
 /storage/logs/*
 node_modules
 environments
+resources
+resources/frontend/angular
+resources/frontend/angular/src
+resources/frontend/angular/src/environments
