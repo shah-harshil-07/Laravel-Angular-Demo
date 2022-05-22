@@ -13,11 +13,12 @@ In .env file, set the value of DB_DATABASE equal to the name of the newly create
 Run the following commands in terminal:-
 1). composer install
 2). php artisan migrate --seed
-3). cd resources/frontend/angular
-4). npm install
+3). php artisan serve
+4). cd resources/frontend/angular
+5). npm install
 
 # Step 5
-Make a virtualhost path pointing to the public directory of this project. Uncomment the keys imageUrl and localhostUrl in environments/environment.ts and set the values of those keys according to the instructions written over there.
+Make a virtualhost path pointing to the public directory of this project. Uncomment the key imageUrl in resources/frontend/angular/src/environments/environment.ts and set the value of that key according path leading to the images folder inside public directory of the project.
 
 # Step 6
 Run ng s -o command in the terminal.
